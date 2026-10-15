@@ -1,2 +1,13 @@
-# Auto detect text files and perform LF normalization
+# Normalize line endings; C# stays CRLF like in the Unity project
 * text=auto
+*.cs text eol=crlf
+*.md text eol=lf
+
+# Binary files
+*.docx binary
+*.png binary
+*.jpg binary
+*.gif binary
+*.fbx binary
+*.wav binary
+*.mp3 binary
