@@ -7,8 +7,6 @@
 <!-- Replace with a GIF or screenshot of gameplay -->
 ![Gameplay](docs/media/gameplay.gif)
 
-**▶ Trailer:** [YouTube link](#) · **Systems walkthrough:** [YouTube link](#) · **Playable build:** [itch.io link](#)
-
 ---
 
 ## About
