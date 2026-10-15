@@ -1,4 +1,4 @@
-# Feudal Japan Survival Action RPG
+# Mossblood - Feudal Japan Survival Action RPG
 
 > A third-person survival action RPG in feudal Japan: explore on foot or on horseback, fight bandits and bosses, manage hunger, thirst and rest, and grow stronger through equipment. Solo or online co-op (2–4 players).
 
