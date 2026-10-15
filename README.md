@@ -23,6 +23,7 @@ References: *The Witcher*, *Outward*, *Ghost of Tsushima*, *Red Dead Redemption*
 Boss Gamplay
 https://github.com/user-attachments/assets/6130a541-de56-4bfb-b9be-cfd8a44969ae
 
+Horse and Npc
 https://github.com/user-attachments/assets/6ee463ab-6386-477b-836b-ee4dcd7f78eb
 
 https://github.com/user-attachments/assets/830597a1-d161-4b4c-937f-7b4fc01ef5bb
